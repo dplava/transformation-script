@@ -4,6 +4,6 @@ First, [download the folder containing the spreadsheet and transformation file u
 ## 2. Unzip the folder. ##
 Go to the "Downloads" folder on your computer. Click on the DPLAVA_Transformation.zip folder, go to the "Compressed Folder Tools" tab (circled with 1 next to it), and click "Extract All" (circled with 2 next to it).
 ![image](https://user-images.githubusercontent.com/91741028/148309618-cf44b231-feae-4a33-ae51-98d1b9d7728f.png)
-## 3. Drag the folder into your Google Drive. ##
-This step requires a Gmail account. 
+## 3. Go to your Google Drive home page. ##
+Go to your [Google Drive home page](https://drive.google.com/drive/u/0/my-drive). This step requires a Gmail account and every Gmail account has access to Google Drive.
 ![image](https://user-images.githubusercontent.com/91741028/148310077-ee0cc4cd-b099-40bf-bd5f-fb5621e0fd97.png)
